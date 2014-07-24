@@ -1,4 +1,3 @@
-geoserver-2.5.1-on-openshift
-============================
+The OpenShift `jbossews` cartridge documentation can be found at:
 
-En este repositorio están todos los archivos para poder hacer una instalación limpia de GeoServer en Openshift
+http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
